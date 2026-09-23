@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a6e9db6a0d69896070e176b9",
+  "owner": "qh6b3qjke",
+  "repo": "page-4eb939659f28b9da2a4ad795",
+  "title": "彼岸云(Beyond)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4eb939659f28b9da2a4ad795",
+      "a": "彼岸云(Beyond)",
+      "b": "机场官网线路发布页",
+      "entity": "彼岸云(Beyond)",
+      "brand": "彼岸云(Beyond)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bf6ff5efb743f888cd6ec964ac9900e50691883b612ee261eec47cf9b626171a",
+      "content": {
+        "primary_entity": "彼岸云(Beyond)",
+        "keyword1": "彼岸云(Beyond)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据系统选择对应的客户端，参考配置文档导入订阅链接。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选择适合的套餐，按照客户端文档完成订阅导入即可开始使用。",
+          "AI_CLOSING_TITLE": "开始彼岸云加速之旅",
+          "AI_DESCRIPTION": "，提供多档位套餐与多类型客户端支持。基础版月付15元含100GB流量，旗舰版月付35元含300GB流量并配备IPLC专线，团队版月付85元支持20台设备。不同系统可选用Clash、Shadowrocket、v2rayN等客户端，导入订阅链接后即可按线路节点连接。",
+          "AI_FAQ_ANSWER_1": "基础版¥15/月含100GB流量，旗舰版¥35/月含300GB流量并采用IPLC专线，团队版¥85/月含1000GB流量支持20台设备。按年付分别约¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出在线设备数量会影响其他设备连接，建议按实际设备数选择。",
+          "AI_FAQ_ANSWER_3": "在客户端中打开订阅配置页面，将订阅链接粘贴并保存，更新节点列表后选择线路连接。具体操作以所用客户端的使用说明为准。",
+          "AI_FAQ_ANSWER_4": "Windows可选Clash Verge或v2rayN，macOS可选ClashX，iOS可选Shadowrocket，Android可选v2rayNG或Clash Meta。按设备系统选择对应客户端导入订阅。",
+          "AI_FAQ_ANSWER_5": "可以。年付套餐价格分别为¥150、¥350、¥850，比按月支付更划算，适合长期使用的用户。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "彼岸云套餐价格和流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_QUESTION_3": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_4": "不同系统推荐哪个客户端？",
+          "AI_FAQ_QUESTION_5": "是否提供年付方案？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量需求、设备数量和订阅周期三个角度比较套餐。",
+          "AI_FEATURES_TITLE": "选套餐前要看的几点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度使用，旗舰版300GB兼顾流媒体与游戏，团队版1000GB满足多设备高流量场景。",
+          "AI_FEATURE_TEXT_2": "基础版允许3台设备同时在线，旗舰版5台，团队版20台。按家庭或个人实际设备数量选择更合理。",
+          "AI_FEATURE_TEXT_3": "各档均有年付方案，年付价格分别约¥150、¥350、¥850元，长期使用可优先考虑年付。",
+          "AI_FEATURE_TITLE_1": "按流量选择",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_GUIDE_INTRO": "按照自身需求选择套餐、确认设备适配、完成客户端配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "彼岸云(Beyond)提供基础版、旗舰版、团队版三档套餐，月付价格从15元到85元，覆盖100GB至1000GB流量，满足个人与团队在不同设备上的加速需求。",
+          "AI_HERO_SUBTITLE": "多档套餐，按需加速",
+          "AI_HIGHLIGHT_1": "三档套餐按月付15元起",
+          "AI_HIGHLIGHT_2": "支持3至20台设备在线",
+          "AI_HIGHLIGHT_3": "IPLC专线与流媒体解锁",
+          "AI_PLANS_INTRO": "基础版100GB适合轻度用户，旗舰版300GB配IPLC专线适合游戏与流媒体，团队版1000GB支持20台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据流量和设备数量选择基础版、旗舰版或团队版，按年付可享更优价格。",
+          "AI_STEP_TEXT_2": "确认使用设备系统，查看对应客户端对订阅配置的要求。",
+          "AI_STEP_TEXT_3": "打开所选客户端的订阅页面，导入订阅链接并更新节点后连接使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "彼岸云加速套餐速览"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "westresearch.cn",
+    "host": "westresearch.cn"
+  },
+  "file_hashes": {
+    "index.html": "24490737787c1f7ed18c38936f281bc1b3d2ea8bf1c08f786932e8bce89e8253",
+    "sitemap.xml": "f8658637f3ebd9185359bd94a38ab00f7b36a3ac694c98c3aa2d25b77aa52a46",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f12f3c12401ca0a562a40d882f6de47b4a0a6df2cd1db14b09dde527e96a155e",
+    "robots.txt": "ed1f3650fafe8a0a0dc10e8e2c4b28e18f508e2bad64bc0a45788bb87b30edfe",
+    "2824f57a48ec642f4be7c7ff3402cd4a.txt": "2cc402155c7377ba00d4498bd0930ef06a5b057cb780aad37ae46205c824aa6c"
+  },
+  "revision": "effbd7214922042105619e0c586cc568eba75bed236c6547d66510bbaad2160a"
+}
